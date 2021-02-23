@@ -1,0 +1,5 @@
+ckeditor_notion_pastehtml.image_upload:
+  title: Notion Images Upload
+  parent: system.admin_content
+  description: 'Administer notion image upload form.'
+  route_name: ckeditor_notion_pastehtml.image_upload

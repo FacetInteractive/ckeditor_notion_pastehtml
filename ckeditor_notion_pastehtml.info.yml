@@ -1,0 +1,8 @@
+name: CKEditor Notion Paste HTML
+description: Module to format notion HTML in ckeditor.
+type: module
+core_version_requirement: ^8.8 || ^9.0
+package: CKEditor
+version: "8.x-1.0"
+dependencies:
+  - ckeditor

@@ -1,0 +1,7 @@
+ckeditor_notion_pastehtml.image_upload:
+  path: '/admin/content/notion-images-upload'
+  defaults:
+    _title: 'Notion Images Upload'
+    _form: 'Drupal\ckeditor_notion_pastehtml\Form\NotionImageUpload'
+  requirements:
+    _permission: 'administer notion files'
